@@ -4,6 +4,9 @@
 
 Choose the best AI model based on task, budget, speed, and context size. Get instant recommendations with detailed comparisons and cost projections.
 
+![Model Advisor Dashboard](screenshots/dashboard.png)
+
+
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-zo.space-blue)](https://dagawdnyc.zo.space/model-advisor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
