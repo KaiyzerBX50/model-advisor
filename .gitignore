@@ -1,0 +1,15 @@
+# AI GOVERNANCE
+.agent/
+.claude/
+.failsafe/
+.qorelogic/
+CLAUDE.md
+GEMINI.md
+
+# Planning documents
+plan-*.md
+docs/
+
+# IDE local settings
+.vscode/
+
