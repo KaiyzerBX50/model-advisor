@@ -96,6 +96,11 @@ Edit `assets/model-advisor.tsx` to:
 
 Then re-run the install script to redeploy.
 
+## 👥 Contributors
+
+- **MythologIQ** — Major refactor: decomposed monolith into 11 modules, fixed 6 data errors, added benchmark-based scoring, +4 new models
+- **DaGAWD NYC** — Original creator and project lead
+
 ## 📄 License
 
 MIT — use it however you want.
