@@ -1,0 +1,23 @@
+# AI GOVERNANCE
+.agent/
+.claude/
+.failsafe/
+.qorelogic/
+CLAUDE.md
+GEMINI.md
+
+# Planning documents
+plan-*.md
+docs/
+
+# Local dev server (not part of Zo deployment)
+dev/
+index.html
+node_modules/
+package.json
+package-lock.json
+vite.config.ts
+
+# IDE local settings
+.vscode/
+
