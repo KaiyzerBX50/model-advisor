@@ -50,6 +50,9 @@ const PROVIDER_VARIANT: Record<string, string> = {
   Anthropic: "amber",
   Google: "blue",
   "Moonshot AI": "purple",
+  "Zhipu AI": "blue",
+  xAI: "pink",
+  Alibaba: "purple",
   MiniMax: "pink",
 };
 
