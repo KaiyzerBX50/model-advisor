@@ -10,6 +10,14 @@ GEMINI.md
 plan-*.md
 docs/
 
+# Local dev server (not part of Zo deployment)
+dev/
+index.html
+node_modules/
+package.json
+package-lock.json
+vite.config.ts
+
 # IDE local settings
 .vscode/
 
